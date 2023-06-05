@@ -15,26 +15,27 @@ Contact: <bibletabforios [at] gmail.com>
 
 ## ﷺ Inspirational quotes from The Holy Bible in every new tab
 
-Introducing Bible Tab, your faithful companion for spiritual inspiration and reflection. This remarkable Safari extension brings the timeless wisdom of the Holy Bible to every new tab you open, enriching your spiritual journey in a beautiful and unobtrusive way.
+Introducing Bible Tab, the Safari extension designed to inspire and uplift Christians on their spiritual path with every new tab they open. Immerse yourself in the Word of God as you embark on a browsing journey, guided by a random quote or verse from the Holy Bible.
 
-With Bible Tab, you'll encounter a refreshing surprise every time you open a new tab. A handpicked quote or verse from the Holy Bible, sourced from the esteemed King James version, will greet you with its profound message and timeless significance.
+Bible Tab is your constant companion, providing a moment of reflection and spiritual nourishment each time you open a new tab in Safari. With a seamless integration into your browsing experience, it delivers a refreshing dose of inspiration in a non-intrusive manner.
 
-Immerse yourself in the captivating ambiance created by Bible Tab. The large, legible font elegantly presents each quote on a delightful backdrop that changes randomly. This visual experience enhances your spiritual exploration, creating a serene environment for introspection and connection with the divine.
+Featuring a thoughtfully curated selection of quotes and verses from the King James version of the Bible, Bible Tab ensures authenticity and reverence. These timeless passages, carefully chosen to encourage and uplift, are presented in a large, legible font that catches your eye and warms your heart.
 
-For those eager to delve deeper into the scriptures, Bible Tab displays the chapter and verse number alongside each quote. This empowers you to explore further and seek a deeper understanding of the profound wisdom contained within the Holy Bible.
+The quotes are beautifully displayed against a backdrop of randomly changing backgrounds, enhancing the visual experience and creating an atmosphere of serenity and tranquility. Each time you open a new tab, you'll be greeted with a fresh combination of scripture and imagery, adding a touch of beauty to your browsing routine.
 
-What sets Bible Tab apart is its offline functionality. You don't need an internet connection for the quotes to be displayed, ensuring that you can draw inspiration from the scriptures even in the absence of connectivity. Whether you're on a remote journey or simply prefer to disconnect from the online world, Bible Tab faithfully accompanies you wherever you go.
+For those seeking a deeper connection with the Word, Bible Tab provides chapter and verse numbers alongside each quote. This allows you to easily locate and explore the surrounding context, empowering you to delve into the profound wisdom and teachings of the Bible.
+
+The best part? No internet connection is required to enjoy the wealth of biblical quotes and verses. Whether you find yourself in a remote location or simply offline, Bible Tab remains faithfully by your side, ready to offer its spiritual insights whenever you need them.
 
 Key Features:
-
-- Randomly displays inspiring quotes and verses from the Holy Bible
-- Features quotes from the esteemed King James version
+- Delivers a random quote or verse from the Holy Bible on every new tab
 - Large, legible font for easy reading
-- Beautiful and varied backgrounds create a serene ambiance
-- Displays chapter and verse number alongside each quote
-- Works offline, no internet connection required
+- Beautiful backgrounds that change randomly, creating a serene browsing experience
+- Chapter and verse numbers displayed alongside each quote for deeper exploration
+- King James version of the Bible ensures authenticity and reverence
+- Works offline, no connectivity needed
 
-Begin each browsing session with a moment of spiritual reflection. Download Bible Tab today and let the wisdom of the Holy Bible guide and inspire you on your spiritual path.
+Install Bible Tab today and discover a new way to infuse your browsing experience with the timeless wisdom and guidance of the Holy Bible. Let every tab you open be a source of inspiration, empowering you on your spiritual journey.
 
 ## 📱 Screenshots
 
