@@ -10,7 +10,7 @@ Contact: <bibletabforios [at] gmail.com>
 </center>
 
 <center>
- <a href="http://itunes.apple.com/app/6449831325"><img height=75 src="/img/appstore.svg" alt="Download for iOS" /></a>
+ <a href="http://itunes.apple.com/app/6449843611"><img height=75 src="/img/appstore.svg" alt="Download for iOS" /></a>
 </center>
 
 ## ﷺ Inspirational quotes from The Holy Bible in every new tab
